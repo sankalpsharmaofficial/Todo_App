@@ -1,4 +1,5 @@
-# TODO APPLICATION
+# ToDo App 
+## Made with (NextJs, TailwindCss and Firebase) and has CRUD functionality
 
 ![landing_page](https://github.com/sankalpsharmaofficial/Todo_App/blob/main/images/landing_page.png)
 ![in_action](https://github.com/sankalpsharmaofficial/Todo_App/blob/main/images/in_action.png)
